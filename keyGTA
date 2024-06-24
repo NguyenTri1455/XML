@@ -1,4 +1,7 @@
-{
-  id: "",
-  disabled: false
-}
+[
+  {
+    id: "",
+    disabled: false,
+    userId: ""
+  }
+]
