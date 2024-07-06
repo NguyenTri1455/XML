@@ -28,5 +28,10 @@
     id: "F52E2461",
     disabled: false,
     userId: "Phát Mê Game"
+  },
+{
+    id: "9FA8DA5B",
+    disabled: false,
+    userId: "Trial Mode"
   }
 ]
