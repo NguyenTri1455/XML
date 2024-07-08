@@ -31,7 +31,7 @@
   },
 {
     id: "9FA8DA5B",
-    disabled: false,
+    disabled: true,
     userId: "Trial Mode"
   }
 ]
