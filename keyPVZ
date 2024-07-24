@@ -1,7 +1,7 @@
 [
   {
     id: "123C541B",
-    disabled: false,
+    disabled: true,
     userId: "Nguyễn Trí"
   }
 ]
