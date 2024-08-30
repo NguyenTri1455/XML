@@ -18,5 +18,10 @@
     id: "406A159D",
     disabled: false,
     userId: "PST Friend"
+  },
+  {
+    id: "02BCB04F",
+    disabled: false,
+    userId: "Huy Bang Ha"
   }
 ]
