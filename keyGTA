@@ -70,6 +70,10 @@
   },{
     id: "254A30D8",
     disabled: false,
-    userId: "trial"
+    userId: "Huy 1"
+  },{
+    id: "34F34FB6",
+    disabled: false,
+    userId: "Huy 2"
   }
 ]
